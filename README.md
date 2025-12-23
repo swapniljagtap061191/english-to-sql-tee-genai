@@ -73,3 +73,7 @@ streamlit run main.py
 - requirements.txt: A list of required Python packages for the project.
 - few_shots.py: Contains few shot prompts
 - .env: Configuration file for storing your Google API key.
+
+
+NOTE: This project is performed by Dhawal Patel (Youtube: https://www.youtube.com/watch?v=4wtrl4hnPT8)
+As there was Google Palm API been used in the project, now is deprecated. I upgraded the project to use Google's newer model: Google Gemini
