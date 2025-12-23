@@ -214,3 +214,10 @@ For questions or issues, please open an issue on the GitHub repository.
 
 **Note**: Make sure to keep your `.env` file secure and never commit it to version control. The `.gitignore` file is already configured to exclude it.
 
+---
+
+## 📖 Original Project
+
+This project is based on the work by **Dhawal Patel** (Youtube: https://www.youtube.com/watch?v=4wtrl4hnPT8)
+
+As Google Palm API has been deprecated, this project has been upgraded to use Google's newer model: **Google Gemini 2.5 Flash** for improved performance and reliability.
