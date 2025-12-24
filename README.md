@@ -2,7 +2,8 @@
 
 An intelligent natural language to SQL query converter built with **Google Gemini AI** and **LangChain**. This project enables users to query a MySQL database using plain English questions, automatically generating and executing SQL queries.
 
-![Project Preview](atliq_tees.png)
+![Project Preview]
+(nat_lang_streamlit_ui.png)
 
 ## 🌟 Features
 
