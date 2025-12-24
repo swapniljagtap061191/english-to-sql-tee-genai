@@ -4,6 +4,8 @@ An intelligent natural language to SQL query converter built with **Google Gemin
 
 ![Project Preview]
 (nat_lang_streamlit_ui.png)
+<img width="671" height="426" alt="atliq_tees" src="https://github.com/user-attachments/assets/17560773-c653-44d2-ab8f-fe805edbc543" />
+
 
 ## 🌟 Features
 
